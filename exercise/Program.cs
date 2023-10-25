@@ -249,11 +249,11 @@
 //23345
 
 
-int num = 34546452;
-int result = 0;
-while (num > 0)
-{
-    result++;
-    num /= 10;
-}
-Console.WriteLine(result);
+//int num = 34546452;
+//int result = 0;
+//while (num > 0)
+//{
+//    result++;
+//    num /= 10;
+//}
+//Console.WriteLine(result);
