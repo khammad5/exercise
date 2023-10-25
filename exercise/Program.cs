@@ -212,4 +212,48 @@
 //Console.WriteLine("xammed yazdi");
 
 
+//int num = 44;
+//do
+//{
+//    num++;
+//    Console.WriteLine(num);
+//} while (num <= 45);
 
+//int num = 12;
+//int result = 1;
+
+//while (num < 25)
+//{
+
+//    if (num%2 == 1)
+//    {
+//        result *= num;
+//    }
+//    num++;
+//}
+//Console.WriteLine(result);
+
+//int a = 23;
+//int b = 44;
+//int count = 0;
+//for (int i = a; i<=b; i++) 
+//{
+//if (i % 2 == 0) 
+//    {
+//        count++;
+//    }
+
+//}
+//Console.WriteLine(count);
+
+//23345
+
+
+int num = 34546452;
+int result = 0;
+while (num > 0)
+{
+    result++;
+    num /= 10;
+}
+Console.WriteLine(result);
