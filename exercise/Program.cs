@@ -175,3 +175,24 @@
 //Console.WriteLine(result);
 
 
+//int num = 1;
+
+
+//while (num<=14)
+//{
+
+//    Console.WriteLine(num);
+//    num++;
+//}
+
+
+int num = 1;
+do
+{
+    num++;
+    Console.WriteLine(num);
+} while (num<=15);
+
+
+
+
