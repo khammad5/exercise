@@ -186,13 +186,30 @@
 //}
 
 
-int num = 1;
-do
-{
-    num++;
-    Console.WriteLine(num);
-} while (num<=15);
+//int num = 1;
+//do
+//{
+//    num++;
+//    Console.WriteLine(num);
+//} while (num<=15);
 
+
+
+//int num = 55;
+//do
+//{
+//    num++;
+//    Console.WriteLine(num);
+//} while (num <= 78);
+
+
+//string name = Console.ReadLine();
+//while (name != "xammed") 
+//{
+//    Console.WriteLine("duzgun daxil et");
+//    Console.ReadLine();
+//}
+//Console.WriteLine("xammed yazdi");
 
 
 
