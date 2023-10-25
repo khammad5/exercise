@@ -159,3 +159,19 @@
 //    }
 //} Console.WriteLine(result);
 
+
+//int y = 66;
+//int u = 78;
+//int result = 0;
+
+//for (int x = y; x < u; x++)
+//{
+//    if (x % 2 == 0)
+//    {
+//        result += x;
+//    }
+
+//}
+//Console.WriteLine(result);
+
+
